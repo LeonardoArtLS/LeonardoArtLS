@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ea5a6f,50:de6e29,100:fccf3a"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Leonardo+Arthur+Luchtenberg+Silva;I'm+18+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoArtLS&bg_color=0d1117&color=f5deb3&line=f5deb3&point=f4a460&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoArtLS&bg_color=0d1117&color=f4a460&line=ff8929&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeonardoArtLS&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Arthur github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoArtLS&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeonardoArtLS&show_icons=true&count_private=true&hide_border=true&title_color=ff8929&icon_color=ff8929&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Arthur github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoArtLS&layout=compact&hide_border=true&title_color=ff8929&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
@@ -42,4 +42,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ea5a6f,50:de6e29,100:fccf3a&height=120&section=footer"/>
