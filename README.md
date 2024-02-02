@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Leonardo Arthur Luchtenberg Silva
-🌱 Estudando e evoluindo com PHP
-📫 Contate-me no email: leonardoarthu627@gmail.com
-😄 Pronouns: ele/dele
+
+- 🌱 Estudando e evoluindo com PHP
+- 📫 Contate-me no email: leonardoarthu627@gmail.com
+- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/LeonardoArtLS">
