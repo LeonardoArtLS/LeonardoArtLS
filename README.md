@@ -34,6 +34,7 @@
 
 ### Studying in this moment:
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
